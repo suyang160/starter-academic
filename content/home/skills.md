@@ -13,24 +13,42 @@ subtitle = ""
 # Add/remove as many `[[feature]]` blocks below as you like.
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
+[[feature]]
+  icon = "microchip"
+  icon_pack = "fas"
+  name = "Embedded design"
+  description = "51MCU,MSP430,STM32,\r\nCC2640R2F,ESP32,Ok6410,Tiny4412"
 
 [[feature]]
-  icon = "r-project"
+  icon = "code"
+  icon_pack = "fas"
+  name = "Programming"
+  description = "C,Python,Java,JavaScript,HTML,Solidity"
+
+[[feature]]
+  icon = "mobile-alt"
+  icon_pack = "fas"
+  name = "Mobile Development"
+  description = "Android App Development"
+
+[[feature]]
+  icon = "ethereum"
   icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  name = "Blockchain"
+  description = "Bitcoin,ethereum,IPFS"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "tools"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
-  
+  name = "Tools"
+  description = "Keil,IAR,MCUXpresso,Docker,ROS"  
+
 [[feature]]
-  icon = "camera-retro"
+  icon = "desktop"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Web Development"
+  description = "Django,BootStrap"  
+
 
 # Uncomment to use emoji icons.
 # [[feature]]
