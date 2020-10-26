@@ -28,7 +28,11 @@ subtitle = ""
    [[content.filter_button]]
      name = "Embedded Design"
      tag = "Embedded Design"
-     
+
+   [[content.filter_button]]
+     name = "Blockchain"
+     tag = "Blockchain"
+    
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

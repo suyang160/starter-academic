@@ -69,4 +69,6 @@ When I was a freshman, I had a course called C language programming. After the c
 
 During undergraduate period, I have done some projects about blockchain applications in IoT. In the future, I would like to do some research about IoT security which may cover the techonology of blockchain and AI.
 
+I am looking for a Phd position now. 
+
 

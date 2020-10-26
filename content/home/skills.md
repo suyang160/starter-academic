@@ -41,7 +41,7 @@ subtitle = ""
   icon = "tools"
   icon_pack = "fas"
   name = "Tools"
-  description = "Keil,IAR,MCUXpresso,Docker,ROS"  
+  description = "Keil,IAR,MCUXpresso,Docker,ROS,AndroidStudio"  
 
 [[feature]]
   icon = "desktop"
