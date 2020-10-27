@@ -56,8 +56,8 @@ date_format = "Jan 2006"
   date_end = "2018-01-01"
   description = """
   *The interns need to practice on the simulation baby about cardiopulmonary resuscitation (CPR) and the operation of the oxygen bottle. Current evaluation method is by experienced doctor, the project aims at using extra devices to evaluate the intern’s operation.*
-  * Designed the PCB of the device, and choosed relevant chips mainly including CC2640R2F(BLE chip produced by TI),BMP180(air pressure detection),Thin film pressure sensor.
-  * Wrote programs on the CC2640R2F to drive the BMP180 to get the raw data of air pressure and wrote the data into the corresponding BLE air pressure service.
+  * Designed the PCB of the device, and choosed relevant chips mainly including CC2640R2F(BLE chip produced by TI),BMP280(air pressure detection),Thin film pressure sensor.
+  * Wrote programs on the CC2640R2F to drive the BMP280 to get the raw data of air pressure and wrote the data into the corresponding BLE air pressure service.
   * Developed an app based on android which could discover and connect our BLE device, search the air pressure service to get the raw data and then handle it to get the actual pressure data.
   
   """
