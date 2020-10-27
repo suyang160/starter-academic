@@ -88,7 +88,7 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "suyang@sjtu.edu.cn"
+email = "suyang360@gmail.com"
 phone = "86 + 18351820320"
 
 # Address

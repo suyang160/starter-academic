@@ -37,7 +37,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:suyang@sjtu.edu.cn"  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:suyang360@gmail.com"  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/my_star100
