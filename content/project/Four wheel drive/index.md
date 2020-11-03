@@ -1,6 +1,6 @@
 ---
 title: Four wheel drive
-summary: The four wheel drive can carry raspiberry pi or other embedded elctronic board which can do complex mage recognition operation. 
+summary: The four wheel drive can carry raspiberry pi or other embedded elctronic board which can do complex image recognition operation. 
 tags:
 - Embedded Design
 date: "2018-04-01T00:00:00Z"
