@@ -19,7 +19,7 @@ publication_types: ["8"]
 publication: 
 publication_short: 
 
-abstract: ZL 201620170033.5
+abstract:
 
 # Summary. An optional shortened abstract.
 summary: 
