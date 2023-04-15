@@ -1,5 +1,5 @@
 ---
-title: "Parking charging system based on blockchain.[In Application,patent for invention]"
+title: "Parking charging system based on blockchain.[patent for invention]"
 authors:
 - Chengnian Long
 - Yang Su

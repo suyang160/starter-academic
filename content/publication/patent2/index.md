@@ -1,5 +1,5 @@
 ---
-title: "IoT identity management system based on blockchain smart contracts.[In Application,patent for invention]"
+title: "IoT identity management system based on blockchain smart contracts.[patent for invention]"
 authors:
 - Chengnian Long
 - Yang Su

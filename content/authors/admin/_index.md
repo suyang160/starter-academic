@@ -17,8 +17,8 @@ superuser: true
 bio: My research interests include Embedded Design, IoT and Blockchain.
 
 interests:
+- AI for Wireless Networks
 - Embedded Design
-- IoT 
 - Blockchain
 
 education:
@@ -63,10 +63,10 @@ user_groups:
 - Visitors
 ---
 
-Hello, I'm Yang Su, an embedded software engineer.
+Hello, I'm Yang Su, I am currently pursuing a PhD in King's College London under the supervision of Dr.Yansha Deng. My current research focus is on machine learning for 5G/B5G wireless networks.
 
-When I was a freshman, I had a course called C language programming. After the course, I began to think about how to apply C language. Occasionally, I got a book named 51 Single-Chip Microcomputer Tutorial based on C language, which offered me the entry to the world of electronic design. Along with the improvement of ability, I also took part in the Electronic Design Contest which teamed up with three people and you need to fulfill as many requirements as possible in three days. Through the efforts of my team, we achieved good results. 
+<!-- When I was a freshman, I had a course called C language programming. After the course, I began to think about how to apply C language. Occasionally, I got a book named 51 Single-Chip Microcomputer Tutorial based on C language, which offered me the entry to the world of electronic design. Along with the improvement of ability, I also took part in the Electronic Design Contest which teamed up with three people and you need to fulfill as many requirements as possible in three days. Through the efforts of my team, we achieved good results. 
 
-During undergraduate period, I have done some projects about blockchain applications in IoT. In the future, I would like to do some research about IoT security which may cover the techonology of blockchain and AI. 
+During undergraduate period, I have done some projects about blockchain applications in IoT. -->
 
 

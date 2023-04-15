@@ -19,7 +19,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *The 2nd International Conference on Blockchain Technology*
-publication_short: In *STC*
+publication_short: In *ICBCT*
 
 abstract: The digital identities of Internet of Things (IoT) devices are vital to the security of IoT system. However, current centralized identity management systems have many drawbacks such as the single point of failure, suffering DDoS attacks and privacy issues. In this paper, to solve the above problems, we combine with the scenario of electrical vehicles charging to present our decentralized machine identifier (DMID) and identity management scheme. The scheme is based on blockchain and InterPlanetary File System (IPFS) technologies. Moreover, to improve the security of DMID, we design a secure hardware module by employing Physical Unclonable Function (PUF), True Random Number Generation (TRNG) and Trustzone. At last, we design a simulation system, and the result demonstrates the feasibility and effectiveness of our proposed scheme.
 
